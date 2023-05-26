@@ -1,12 +1,8 @@
-/* univeral page font */
+    /* univeral page font */
     html *
     {
         font-family: Arial !important;
         text-shadow: .5px .5px #786868ff;
-    }
-    article 
-    {
-      text-align: center;
     }
 
     h1 
@@ -64,12 +60,14 @@
     #photography {
         background-color: #659dbd;
         padding: 20px;
+        text-align: center;
     }  
 
     /* Add CSS for the about section */
     #about {
         background-color: #8d8741;
         padding: 20px;
+        text-align: center;
     }
 
     /* Add CSS for the images in the about section */
@@ -125,4 +123,5 @@
             color: #ffff;
             text-decoration: underline
         }
+
 
